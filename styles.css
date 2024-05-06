@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#book-list {
+    margin-top: 20px;
+}
+
+.book-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.book-item:hover {
+    background-color: #f0f0f0;
+}
+
+.purchase-btn {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.purchase-btn:hover {
+    background-color: #3e8e41;
+}
